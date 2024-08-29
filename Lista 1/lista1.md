@@ -244,7 +244,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 10. **Cálculo do Volume de uma Piscina:**
     - Um cliente encomendou uma piscina circular com 10 metros de diâmetro. Realize a leitura da profundidade da piscina e calcule o volume de água necessário para enchê-la completamente. Utilize a fórmula: `V = 3,14 * 5 * 5 * P`, onde P é a profundidade da piscina.
-   - <details>
+    - <details>
      <summary>Ver solução</summary>
 
      ```pascal
