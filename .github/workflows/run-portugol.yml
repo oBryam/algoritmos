@@ -19,8 +19,8 @@ jobs:
 
     - name: Install Portugol Web Studio CLI
       run: |
-        wget https://github.com/UNIVALI-LITE/Portugol-Studio/releases/download/v2.7.5/portugol-studio-2.7.5-linux.run.zip -O portugol.zip
-        unzip portugol-studio-2.7.5-linux.run.zip -d portugol
+        wget https://github.com/UNIVALI-LITE/Portugol-Studio/releases/download/v2.7.5/Portugol.Studio-StandAlone-Windows.zip -O portugol.zip
+        unzip Portugol.Studio-StandAlone-Windows.zip -d portugol
         chmod +x portugol/Portugol\ Studio/portugol-studio.jar
 
     - name: Run Portugol Code
