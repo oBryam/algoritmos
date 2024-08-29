@@ -14,7 +14,7 @@ O objetivo deste componente curricular é desenvolver a capacidade de interpreta
 
 ## Listas de Exercícios
 
-- **07/08/2024:** [[Link para os exercícios](https://github.com/oBryam/Algoritimos/blob/main/Lista%201/lista1.md)]
-- **28/08/2024:** [Descrição da lista ou link para os exercícios]
+- **07/08/2024:** [[Link para os exercícios](https://github.com/oBryam/Algoritmos/blob/main/Lista%201/lista1.md)]
+- **28/08/2024:** [[Link para os exercícios](https://github.com/oBryam/Algoritmos/blob/main/Lista%201/lista2.md)]
 
 ___
