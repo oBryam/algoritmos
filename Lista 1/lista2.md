@@ -162,16 +162,17 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
      inicio
       escreval ("Escreva os valor de A, B e C")
       leia (a , b, c)
-   
+
+      // Verificar o maior valor
       se (a > b) e (a > c) entao
-         escreval ("O maior valor é A que é: ", a)
+         escreval ("O maior valor é A, que é: ", a)
    
       senao
          se (b > a) e (b > c) entao
-            escreval ("O maior valor é B que é: ", b)
+            escreval ("O maior valor é B, que é: ", b)
 
          senao
-            escreval("O maior valor é C que é: ", c)
+            escreval("O maior valor é C, que é: ", c)
 
          fimse
       fimse
