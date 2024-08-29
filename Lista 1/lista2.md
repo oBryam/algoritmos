@@ -40,9 +40,21 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
      ```pascal
      // Exemplo de código no VisuAlg
      var 
-
+      a, b, c, media : real
      
      inicio
+      escreval ("Digite suas três notas")
+      leia (a, b, c)
+
+      media <- (a + b + c)/3
+
+      se (media = 10) então
+      escreval ("Nota Maxima")
+      
+      senao
+      escreval ("Outro Valor")
+
+      fimse
 
      fimalgoritmo
      ```
@@ -76,10 +88,21 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
      ```pascal
      // Exemplo de código no VisuAlg
      var 
-
+      l, c, a, v: real
      
      inicio
+      escreval ("Digite as dimensoes do aquario")
+      leia (l, c, a)
 
+      v <- l * c * a
+   
+      se (v > 50) entao
+      escreval ("volume excedido")
+
+      senao
+      escreval ("Volume não excedido")
+   
+      fimse
      fimalgoritmo
      ```
 
@@ -97,9 +120,25 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
      ```pascal
      // Exemplo de código no VisuAlg
      var 
-
+      a, b : inteiro
      
      inicio
+      escreval ("Escreva os valor de A e B")
+      leia (a , b)
+   
+      se (a = b) entao
+         escreval ("Igual")
+
+      senao
+
+         se (a > b) então
+            escreval ("Maior")
+
+         senao
+            escreval ("Menor")
+
+         fimse
+      fimse
 
      fimalgoritmo
      ```
@@ -118,9 +157,24 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
      ```pascal
      // Exemplo de código no VisuAlg
      var 
-
+      a, b , c: real
      
      inicio
+      escreval ("Escreva os valor de A, B e C")
+      leia (a , b, c)
+   
+      se (a > b) e (a > c) entao
+         escreval ("O maior valor é A que é: ", a)
+   
+      senao
+         se (b > a) e (b > c) entao
+            escreval ("O maior valor é B que é: ", b)
+
+         senao
+            escreval("O maior valor é C que é: ", c)
+
+         fimse
+      fimse
 
      fimalgoritmo
      ```
