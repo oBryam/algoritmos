@@ -20,4 +20,4 @@ jobs:
           pip install -r requirements.txt  # Se você tiver dependências
 
       - name: Run Python script
-        run: python script.py
+        run: python teste.py
