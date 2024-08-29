@@ -14,7 +14,6 @@ O objetivo deste componente curricular é desenvolver a capacidade de interpreta
 
 - Escrever algoritmos em Português Estruturado.
 - Aplicar conceitos fundamentais, como variáveis, comandos de leitura e escrita, atribuições, operações matemáticas, estruturas de seleção e repetição.
-- Desenvolver e implementar funções, procedimentos e funções recursivas.
 
 ## Listas de Exercícios
 
