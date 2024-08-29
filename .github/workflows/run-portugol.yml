@@ -21,8 +21,8 @@ jobs:
       run: |
         wget https://github.com/UNIVALI-LITE/Portugol-Studio/releases/download/v2.7.5/Portugol.Studio-StandAlone-Windows.zip -O portugol.zip
         unzip portugol.zip -d portugol
-        chmod +x portugol/Portugol\ Studio/portugol-studio.jar
+        chmod +x portugol/Portugol\ Studio/aplicacao/portugol-studio.jar
 
     - name: Run Portugol Code
       run: |
-        java -jar portugol/Portugol\ Studio/portugol-studio.jar --execute Lista 1/Lista 2/atividade 1.por
+        java -jar portugol/Portugol\ Studio/aplicacao/portugol-studio.jar --execute Lista 1/Lista 2/atividade 1.por
