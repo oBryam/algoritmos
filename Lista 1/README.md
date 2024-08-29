@@ -72,7 +72,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 4. **Cálculo da Média Aritmética:**
    - Realize a leitura de quatro números (A, B, C, D). Calcule a média aritmética dos mesmos, utilizando a fórmula: `M = (A + B + C + D) / 4`.
-    - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -102,7 +102,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 5. **Cálculo da Média Ponderada:**
    - Realize a leitura de quatro números (A, B, C, D). Calcule a média ponderada dos mesmos, utilizando a fórmula: `M = 0,4 * A + 0,3 * B + 0,2 * C + 0,1 * D`.
-      - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -134,7 +134,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 6. **Cálculo da Velocidade Média:**
    - Um carro realizou uma viagem em uma autoestrada em um tempo T (em horas). Sabendo que a distância percorrida foi de 30 quilômetros, crie um algoritmo que calcule a velocidade média (V) do carro, utilizando a fórmula: `V = 30 / T`.
-      - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -159,7 +159,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 7. **Cálculo da Produção de Soja:**
    - Um produtor rural produz 150 mil toneladas de soja em um ano. Crie um algoritmo que leia a quantidade de meses (M) e calcule a produção para aquele período, utilizando a fórmula: `Produção = 150000 * M / 12`.
-      - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -185,7 +185,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 8. **Cálculo da Velocidade Média em Regiões Diferentes:**
    - Um veículo percorreu uma região litorânea e uma região de serra em um total de duas horas. Realize a leitura das distâncias percorridas em cada região (D1 e D2) e calcule a velocidade média (V) utilizando a fórmula: `V = (D1 + D2) / 2`.
-      - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -215,7 +215,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 9. **Cálculo da Área de Grama para Encomenda:**
    - Um gerente de um clube de futebol deseja trocar toda a grama de um gramado retangular com dimensões L e C. Crie um algoritmo que calcule a quantidade de metros quadrados de grama a ser encomendada (M), utilizando a fórmula: `M = L * C`.
-      - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -244,7 +244,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 10. **Cálculo do Volume de uma Piscina:**
     - Um cliente encomendou uma piscina circular com 10 metros de diâmetro. Realize a leitura da profundidade da piscina e calcule o volume de água necessário para enchê-la completamente. Utilize a fórmula: `V = 3,14 * 5 * 5 * P`, onde P é a profundidade da piscina.
-       - <details>
+   - <details>
      <summary>Ver solução</summary>
 
      ```pascal
@@ -267,3 +267,4 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
      ```
 
      </details>
+
