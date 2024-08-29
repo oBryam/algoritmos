@@ -14,7 +14,7 @@ jobs:
     - name: Setup Java Environment
       uses: actions/setup-java@v2
       with:
-        distribution: 'temurin'  # ou 'zulu', 'adopt', etc.
+        distribution: 'adopt'  # ou 'zulu', 'adopt', etc.
         java-version: '8'
 
     - name: Install Portugol Web Studio CLI
