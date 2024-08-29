@@ -28,4 +28,4 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
      </details>
    
-   [![Testar Codigo](https://github.com/oBryam/Algoritmos/actions/workflows/run-code.yml/badge.svg)](https://github.com/oBryam/Algoritmos/actions/workflows/run-code.yml/dispatch)
+   [![Testar Codigo](https://github.com/oBryam/Algoritmos/actions/workflows/run-portugol.yml/badge.svg)](https://github.com/oBryam/Algoritmos/actions/workflows/run-portugol.yml/dispatch)
