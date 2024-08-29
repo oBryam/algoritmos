@@ -14,8 +14,8 @@ jobs:
     - name: Setup Java Environment
       uses: actions/setup-java@v2
       with:
+        distribution: 'temurin'  # ou 'zulu', 'adopt', etc.
         java-version: '8'
-        token: ${{ github.token }}
 
     - name: Install Portugol Web Studio CLI
       run: |
