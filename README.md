@@ -1,6 +1,6 @@
 <h1>
      <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg"></a>
-    <span> Algoritmos</span>
+    <span>Algoritmos</span>
 </h1>
 
 
