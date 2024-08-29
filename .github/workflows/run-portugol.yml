@@ -24,4 +24,4 @@ jobs:
 
     - name: Run Portugol Code
       run: |
-        java -jar portugol/Portugol\ Studio/portugol-studio.jar --execute Lista 1/Lista 2/Atividade 1.ALG
+        java -jar portugol/Portugol\ Studio/portugol-studio.jar --execute Lista 1/Lista 2/atividade 1.por
