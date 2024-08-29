@@ -1,6 +1,8 @@
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg" width="50"/> <h1 style="display: inline;">Algoritmos</h1>
-</p>
+<h1>
+     <img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg"></a>
+    <span> Algoritmos</span>
+</h1>
+
 
 **Turma:** 08 (2024.2)
 
