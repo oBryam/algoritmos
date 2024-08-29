@@ -1,0 +1,27 @@
+name: Run Portugol Code
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-portugol:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Setup Java Environment
+      uses: actions/setup-java@v2
+      with:
+        java-version: '8'
+
+    - name: Install Portugol Web Studio CLI
+      run: |
+        wget https://github.com/UNIVALI-LITE/Portugol-Studio/releases/download/v2.7.5/portugol-studio-2.7.5.zip -O portugol.zip
+        unzip portugol.zip -d portugol
+        chmod +x portugol/Portugol\ Studio/portugol-studio.jar
+
+    - name: Run Portugol Code
+      run: |
+        java -jar portugol/Portugol\ Studio/portugol-studio.jar --execute Lista 1/Lista 2/Atividade 1.ALG
