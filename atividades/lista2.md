@@ -11,7 +11,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var 
             a, b: inteiro
@@ -36,7 +36,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             numero: inteiro
@@ -62,7 +62,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var 
             a, b, c, media: real
@@ -90,7 +90,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             X, total: real
@@ -118,7 +118,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var 
             l, c, a, v: real
@@ -145,7 +145,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             largura1, comprimento1, largura2, comprimento2, area1, area2: real
@@ -177,7 +177,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var 
             a, b: inteiro
@@ -207,7 +207,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             numero1, numero2: inteiro
@@ -236,7 +236,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var 
             a, b, c: real
