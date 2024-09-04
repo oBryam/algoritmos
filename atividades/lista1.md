@@ -11,7 +11,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var 
             PC, PF: real
@@ -34,7 +34,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             numero: inteiro
@@ -57,7 +57,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             PV, PF: real
@@ -79,7 +79,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             a, b, c, d: real
@@ -110,7 +110,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             a, b, c, d: real
@@ -143,7 +143,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             v, t: real
@@ -168,7 +168,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             p, m: real
@@ -195,7 +195,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
         
         var
             d1, d2: inteiro
@@ -226,7 +226,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
 
         var
             M, L, C: inteiro
@@ -256,7 +256,7 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
         ```pascal
         // Exemplo de código no VisuAlg
-        Algoritmo
+        Algoritmo "semnome"
         
         var
             P, V: real
