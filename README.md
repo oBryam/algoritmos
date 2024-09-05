@@ -16,7 +16,7 @@ ___
 
 - **Lista 1 (07/08/2024):** [[Link para os exercícios](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista1.md)]
 - **Lista 2 (28/08/2024):** [[Link para os exercícios](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista2.md)]
-- **Lista 3 (11/09/2024):** [[Link para os exercícios]()]
+- **Lista 3 (11/09/2024):** [[Link para os exercícios](https://github.com/oBryam/algoritmos/blob/main/atividades/lista3.md)]
 ___
 ## Questionários
 
