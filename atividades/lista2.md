@@ -263,3 +263,41 @@ Este documento apresenta uma série de problemas para serem resolvidos utilizand
 
 10. **Avaliação de Nota:**
     - Realize a leitura de uma nota de 0 a 10. Se a nota for menor que 10 e maior ou igual a 9, escreva "Conceito A". Se a nota for menor que 9 e maior ou igual a 7,5, escreva "Conceito B". Se a nota for menor que 7,5 e maior ou igual a 6, escreva "Conceito C". Se a nota for menor que 6 e maior ou igual a 5, escreva "Conceito D". Caso contrário, escreva "Conceito E".
+    - <details>
+        <summary>Ver solução</summary>
+
+        ```pascal
+        // Exemplo de código no VisuAlg
+        Algoritmo "semnome"
+
+        Var
+        nota : real
+
+        Inicio
+        escreval("Digite sua nota: ")
+        leia(nota)
+
+        se (nota <= 10) e (nota >= 9) entao
+           escreval ("Conceito A")
+        fimse
+
+        se (nota < 9) e (nota >= 7.5) entao
+           escreval ("Conceito B")
+        fimse
+
+        se (nota < 7.5) e (nota >= 6) entao
+           escreval ("Conceito C")
+        fimse
+
+        se (nota < 6) e (nota >= 5) entao
+           escreval ("Conceito D")
+        fimse
+
+        se (nota < 5) entao
+           escreval ("Conceito E")
+        fimse
+
+        Fimalgoritmo
+        ```
+      </details>
+
