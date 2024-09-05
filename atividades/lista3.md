@@ -1,4 +1,4 @@
-## Exercícios com uso obrigatório de Laço de Repetição (11/09/2024)
+# Exercícios com uso obrigatório de Laço de Repetição (11/09/2024)
 
 1. **Escreva um algoritmo que escreve os números de 1 a 20.**
 
