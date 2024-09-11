@@ -3,7 +3,7 @@
 1. **Escreva um algoritmo que escreve os números de 1 a 20.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -22,10 +22,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 2. **Escreva um algoritmo que escreve todos os números de 4 a 17.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -44,10 +52,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 3. **Escreva um algoritmo que escreve todos os números pares de 1 a 100.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -66,10 +82,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 4. **Escreva um algoritmo que escreve todos os números ímpares de 456 à 590.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -88,10 +112,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 5. **Fazer um algoritmo que leia dez números inteiros e para cada número lido escreva o dobro do mesmo.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -112,10 +144,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 6. **Fazer um algoritmo que leia dez números inteiros e para cada número lido escreva o sucessor e o antecessor do mesmo.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -137,10 +177,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 7. **Fazer um algoritmo que leia um número inteiro N e escreva os N primeiros números inteiros positivos. Por exemplo, se for lido N como 5, serão escritos os números de 1 a 5.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -162,10 +210,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 8. **Fazer um algoritmo que leia dois números inteiros A e B, e escreva todos os números inteiros de A a B. Se forem lidos A e B como 3 e 6 respectivamente, serão escritos os números 3, 4, 5, 6.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -189,10 +245,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 9. **Faça um algoritmo que leia 10 números reais e escreva a soma dos mesmos.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -217,10 +281,18 @@
     ```
 </details>
 
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
+    ```
+</details>
+
 10. **Faça um algoritmo que leia 10 números reais e escreva o produto dos mesmos.**
 
 - <details>
-    <summary>Ver solução</summary>
+    <summary>Solução com ENQUANTO</summary>
 
     ```pascal
     // Exemplo de código no VisuAlg
@@ -242,5 +314,13 @@
 
         escreva("O produto dos números é: ", produto)
     fimalgoritmo
+    ```
+</details>
+
+- <details>
+    <summary>Solução com PARA</summary>
+
+    ```pascal
+
     ```
 </details>
