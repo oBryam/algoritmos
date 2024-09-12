@@ -113,3 +113,10 @@ Algoritmo - Fazer uma torrada
 * Sequência de comandos, instruções, gráfico ou diagrama que é responsável por resolver algum problema.
    * [x] Verdadeiro
    * [ ] Falso
+
+---
+
+14. Leitura e Escrita de Dados
+* É quando o algoritmo precisa receber dados do usuário (leitura de dados) e quando precisa informar o usuário de um resultado parcial ou total (escrita de dados).
+   * [x] Verdadeiro
+   * [ ] Falso
