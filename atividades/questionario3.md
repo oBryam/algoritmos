@@ -173,4 +173,10 @@ Fimalgoritmo
     * [ ] Verdadeiro
     * [x] Falso
     * **Observação:** Variáveis possuem limites de valor dependendo do seu tipo e da arquitetura do computador.
+
 ---
+
+16. Comando "escreva"
+* Escreve na saída padrão (tela) o valor de uma varíavel.
+    * [x] Verdadeiro
+    * [ ] Falso
