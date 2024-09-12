@@ -238,7 +238,21 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "Sucessor e antecessor de dez números"
+    
+    var
+    i , num: inteiro
+    
+    inicio
+    
+          para i de 1 ate 10 passo 1 faca
+               escreva ("Digite um numero: ")
+               leia (num)
+               escreval ("O Sucessor de ", num, " é ", num + 1)
+               escreval ("O Antecessor de ", num, " é ", num - 1)
+          fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -271,7 +285,21 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "N primeiros números positivos"
+    
+    var
+        i , N: inteiro
+    
+    inicio
+    
+        escreva ("Digite um numero inteiro e positivo: ")
+        leia(N)
+    
+        para i de 1 ate N passo 1 faca
+            escreval(i)
+        fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -306,7 +334,21 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "Números de A a B"
+    
+    var
+    i , A, B: inteiro
+    
+    inicio
+    
+          escreva ("Digite numeros para A e B: ")
+          leia(A,B)
+    
+          para i de A ate B passo 1 faca
+               escreval(i)
+          fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -342,7 +384,23 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "Soma de 10 números reais"
+    
+    var
+    i : inteiro
+    num , soma: real
+    
+    inicio
+          para i de 1 ate 10 passo 1 faca
+               escreva ("Digite um numero: ")
+               leia(num)
+               soma <- soma + num
+               escreval (soma)
+          fimpara
+    
+          escreval ("A soma é: ", soma)
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -378,6 +436,23 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "Produto de 10 números reais"
+    
+    var
+    i : inteiro
+    num , produto: real
+    
+    inicio
+          produto <- 1
+          para i de 1 ate 10 passo 1 faca
+               escreva ("Digite um numero: ")
+               leia(num)
+               produto <- produto * num
+               escreval (produto)
+          fimpara
+    
+          escreval ("O produto é: ", produto)
+    
+    fimalgoritmo
     ```
 </details>
