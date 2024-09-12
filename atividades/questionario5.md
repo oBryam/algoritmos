@@ -182,8 +182,7 @@ Fimalgoritmo
 * enquanto
 * para
 * repita
-* se
-    * [x] se
+* * [x] se
 
 ---
 
@@ -224,3 +223,26 @@ fimenquanto
 * Os números de 4 a 11
 * os números de 4 a 12
 * Os números pares de 4 a 10
+
+---
+
+11. O que é impresso pelo algoritmo a seguir (2)?
+```
+Algoritmo "semnome"
+Var
+  a,b,i,s: inteiro
+Inicio
+  leia (a)
+  leia (b)
+  s <- 0
+  para i de a ate b faca
+    s <- s + i
+  fimpara
+  escreval (s)
+Fimalgoritmo
+```
+* Os números inteiros de a até b.
+* [x] A soma dos números inteiros de a até b.
+* Os números inteiros pares de a até b
+* A soma dos números de 1 a 10
+
