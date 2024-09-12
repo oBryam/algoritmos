@@ -26,7 +26,18 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
+    Algoritmo "Números de 1 a 20"
 
+    var
+        i : inteiro
+    
+    inicio
+    
+        para i de 1 ate 20 passo 1 faca
+             escreval (i)
+        fimpara
+        
+    fimalgoritmo
     ```
 </details>
 
@@ -56,7 +67,18 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
+    Algoritmo "Números de 4 a 17"
 
+    var
+        i : inteiro
+    
+    inicio
+    
+        para i de 4 ate 17 passo 1 faca
+             escreval (i)
+        fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -86,7 +108,18 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
+    Algoritmo "Números pares de 1 a 100"
 
+    var
+        i : inteiro
+    
+    inicio
+    
+        para i de 2 ate 100 passo 2 faca
+             escreval (i)
+        fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -116,7 +149,18 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "Números ímpares de 456 a 590"
+    
+    var
+        i : inteiro
+    
+    inicio
+    
+        para i de 457 ate 590 passo 2 faca
+             escreval (i)
+        fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
@@ -148,7 +192,20 @@
     <summary>Solução com PARA</summary>
 
     ```pascal
-
+    Algoritmo "Dobro de dez números"
+    
+    var
+    i , num: inteiro
+    
+    inicio
+    
+          para i de 1 ate 10 passo 1 faca
+               escreva ("Digite um numero: ")
+               leia (num)
+               escreval ("O dobro de ", num, " é ", num*2)
+          fimpara
+    
+    fimalgoritmo
     ```
 </details>
 
