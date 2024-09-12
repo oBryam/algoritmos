@@ -14,15 +14,15 @@ O objetivo deste componente curricular é desenvolver a capacidade de interpreta
 ___
 ## Listas de Exercícios
 
-- **Lista 1 (07/08/2024):** [[Link para os exercícios](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista1.md)]
-- **Lista 2 (28/08/2024):** [[Link para os exercícios](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista2.md)]
-- **Lista 3 (11/09/2024):** [[Link para os exercícios](https://github.com/oBryam/algoritmos/blob/main/atividades/lista3.md)]
+- **Lista 1 (07/08/2024):** [[Link para os exercícios]](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista1.md)
+- **Lista 2 (28/08/2024):** [[Link para os exercícios]](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista2.md)
+- **Lista 3 (11/09/2024):** [[Link para os exercícios]](https://github.com/oBryam/algoritmos/blob/main/atividades/lista3.md)
 ___
 ## Questionários
 
-- **Questionário 1 (31/07/2024):** [[Link para o questionário](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario1.md)]
-- **Questionário 2 (31/07/2024):** [[Link para o questionário]]
-- **Questionário 3 (07/08/2024):** [[Link para o questionário](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario3.md)]
+- **Questionário 1 (31/07/2024):** [[Link para o questionário]](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario1.md)
+- **Questionário 2 (31/07/2024):** [[Link para o questionário]](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario2.md)
+- **Questionário 3 (07/08/2024):** [[Link para o questionário]](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario3.md)
 - **Questionário 4 (28/08/2024):** [[Link para o questionário]]
 - **Questionário 5 (04/09/2024):** [[Link para o questionário]]
 - **Questionário 6 (11/09/2024):** [[Link para o questionário]]
