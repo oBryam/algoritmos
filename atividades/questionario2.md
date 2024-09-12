@@ -106,3 +106,10 @@ Algoritmo - Fazer uma torrada
 * Nenhuma linguagem de programação pode ser ambígua.
     * [x] Verdadeiro
     * [ ] Falso
+
+---
+
+13. Está Corrata a Afirmação ?
+* Sequência de comandos, instruções, gráfico ou diagrama que é responsável por resolver algum problema.
+   * [x] Verdadeiro
+   * [ ] Falso
