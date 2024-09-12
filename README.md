@@ -14,16 +14,20 @@ O objetivo deste componente curricular é desenvolver a capacidade de interpreta
 ___
 ## Listas de Exercícios
 
-- **Lista 1 (07/08/2024):** [[Link para os exercícios]](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista1.md)
-- **Lista 2 (28/08/2024):** [[Link para os exercícios]](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista2.md)
-- **Lista 3 (11/09/2024):** [[Link para os exercícios]](https://github.com/oBryam/algoritmos/blob/main/atividades/lista3.md)
+| Data | Lista | Status |
+|---|---|---|
+| 07/08/2024 | [Lista 1](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista1.md) | Disponível |
+| 28/08/2024 | [Lista 2](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista2.md) | Disponível |
+| 11/09/2024 | [Lista 3](https://github.com/oBryam/algoritmos/blob/main/atividades/lista3.md) | Disponível |
 ___
 ## Questionários
 
-- **Questionário 1 (31/07/2024):** [[Link para o questionário]](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario1.md)
-- **Questionário 2 (31/07/2024):** [[Link para o questionário]](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario2.md)
-- **Questionário 3 (07/08/2024):** [[Link para o questionário]](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario3.md)
-- **Questionário 4 (21/08/2024):** [INDISPONIVEL]
-- **Questionário 5 (11/09/2024):** [[Link para o questionário]]
+| Data | Questionário | Status |
+|---|---|---|
+| 31/07/2024 | [Questionário 1 - Nivelamento de Algoritmos](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario1.md) | Disponível |
+| 31/07/2024 | [Questionário 2 - Introdução](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario2.md) | Disponível |
+| 07/08/2024 | [Questionário 3 - Português Estruturado](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario3.md) | Disponível |
+| 21/08/2024 | Questionário 4 - Comando de Seleção | INDISPONÍVEL |
+| 11/09/2024 | [Questionário 5 - Comandos de Repetição](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario5.md) | Disponível |
 
 ___
