@@ -122,7 +122,7 @@ Fimalgoritmo
 * Define o início do algoritmo.
     * [ ] Verdadeiro
     * [x] Falso
-* Observação: A cláusula "fimalgoritmo" define o fim do algoritmo.
+* **Observação:** A cláusula "fimalgoritmo" define o fim do algoritmo.
 ---
 
 10. Comando "Algoritmo"
@@ -146,7 +146,7 @@ Fimalgoritmo
 * É usado para escrever na tela o valor de uma variável.
     * [ ] Verdadeiro
     * [x] Falso
-* Observação: O comando "leia" é usado para ler dados de entrada do usuário.
+* **Observação:** O comando "leia" é usado para ler dados de entrada do usuário.
 ---
 
 13. O valor 4,1 poderá ser armazenado somente por uma variável do seguinte tipo:
@@ -172,5 +172,5 @@ Fimalgoritmo
 * Variáveis não possuem limite de valor estebelecido, ou seja, uma variável poderá armazenar um valor tão grande quanto a memória RAM.
     * [ ] Verdadeiro
     * [x] Falso
-* Observação: Variáveis possuem limites de valor dependendo do seu tipo e da arquitetura do computador.
+* **Observação:** Variáveis possuem limites de valor dependendo do seu tipo e da arquitetura do computador.
 ---
