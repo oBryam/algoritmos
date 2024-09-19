@@ -80,7 +80,7 @@
     
     fimalgoritmo
     ```
-</details>-->
+</details>
 
 3. **Escreva um algoritmo que escreve todos os números pares de (`1`) a (`100`).**
 
@@ -162,7 +162,7 @@
     
     fimalgoritmo
     ```
-</details>-->
+</details>
 
 5. **Fazer um algoritmo que leia dez números inteiros e para cada número lido escreva o dobro do mesmo.**
 
@@ -254,7 +254,7 @@
     
     fimalgoritmo
     ```
-</details>-->
+</details>
 
 7. **Fazer um algoritmo que leia um número inteiro (`N`) e escreva os (`N`) primeiros números inteiros positivos. Por exemplo, se for lido (`N`) como (`5`), serão escritos os números de (`1`) a (`5`).**
 
@@ -350,7 +350,7 @@
     
     fimalgoritmo
     ```
-</details>-->
+</details>
 
 9. **Faça um algoritmo que leia (`10`) números reais e escreva a soma dos mesmos.**
 
@@ -455,4 +455,4 @@
     
     fimalgoritmo
     ```
-</details>-->
+</details>
