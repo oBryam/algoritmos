@@ -41,7 +41,7 @@
     ```
 </details>
 
-<!--2. **Escreva um algoritmo que escreve todos os números de (`4`) a (`17`).**
+2. **Escreva um algoritmo que escreve todos os números de (`4`) a (`17`).**
 
 - <details>
     <summary>Solução com ENQUANTO</summary>
@@ -123,7 +123,7 @@
     ```
 </details>
 
-<!--4. **Escreva um algoritmo que escreve todos os números ímpares de (`456`) à (`590`).**
+4. **Escreva um algoritmo que escreve todos os números ímpares de (`456`) à (`590`).**
 
 - <details>
     <summary>Solução com ENQUANTO</summary>
@@ -209,7 +209,7 @@
     ```
 </details>
 
-<!--6. **Fazer um algoritmo que leia dez números inteiros e para cada número lido escreva o sucessor e o antecessor do mesmo.**
+6. **Fazer um algoritmo que leia dez números inteiros e para cada número lido escreva o sucessor e o antecessor do mesmo.**
 
 - <details>
     <summary>Solução com ENQUANTO</summary>
@@ -303,7 +303,7 @@
     ```
 </details>
 
-<!--8. **Fazer um algoritmo que leia dois números inteiros (`A`) e (`B`), e escreva todos os números inteiros de (`A`) a (`B`). Se forem lidos (`A`) e (`B`) como (`3`) e (`6`) respectivamente, serão escritos os números `3, 4, 5, 6`.**
+8. **Fazer um algoritmo que leia dois números inteiros (`A`) e (`B`), e escreva todos os números inteiros de (`A`) a (`B`). Se forem lidos (`A`) e (`B`) como (`3`) e (`6`) respectivamente, serão escritos os números `3, 4, 5, 6`.**
 
 - <details>
     <summary>Solução com ENQUANTO</summary>
@@ -404,7 +404,7 @@
     ```
 </details>
 
-<!--10. **Faça um algoritmo que leia (`10`) números reais e escreva o produto dos mesmos.**
+10. **Faça um algoritmo que leia (`10`) números reais e escreva o produto dos mesmos.**
 
 - <details>
     <summary>Solução com ENQUANTO</summary>
