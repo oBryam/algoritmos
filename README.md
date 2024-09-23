@@ -19,6 +19,7 @@ ___
 | 07/08/2024 | [Lista 1](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista1.md) | Disponível |
 | 28/08/2024 | [Lista 2](https://github.com/oBryam/Algoritmos/blob/main/atividades/lista2.md) | Disponível |
 | 11/09/2024 | [Lista 3](https://github.com/oBryam/algoritmos/blob/main/atividades/lista3.md) | Disponível |
+| 18/09/2024 | [Lista 4](https://github.com/oBryam/algoritmos/blob/main/atividades/lista4.md) | Disponível |
 ___
 ## Questionários
 
