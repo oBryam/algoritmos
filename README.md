@@ -29,5 +29,6 @@ ___
 | 07/08/2024 | [Questionário 3 - Português Estruturado](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario3.md) | Disponível |
 | 21/08/2024 | Questionário 4 - Comando de Seleção | INDISPONÍVEL |
 | 11/09/2024 | [Questionário 5 - Comandos de Repetição](https://github.com/oBryam/algoritmos/blob/main/atividades/questionario5.md) | Disponível |
+| 18/09/2024 | [Questionário de Revisão](https://github.com/oBryam/algoritmos/blob/main/atividades/questionariorevisao.md) | Disponível |
 
 ___
