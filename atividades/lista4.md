@@ -1,4 +1,4 @@
-## Exercícios com uso obrigatório de Laço de Repetição
+# Exercícios com uso obrigatório de Laço de Repetição (18/09/2024)
 
 1. **Escreva um algoritmo que escreve todos os números de 3 a 99 que forem múltiplos de 3.**
 
